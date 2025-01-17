@@ -1,0 +1,59 @@
+{
+    "menu": {
+        "file": {
+            "label": "文件",
+            "new_map": "新建地图",
+            "open_map": "打开地图",
+            "save_map": "保存地图",
+            "exit": "退出"
+        },
+        "edit": {
+            "label": "编辑",
+            "undo": "撤销",
+            "redo": "重做",
+            "toggle_grid": "切换网格显示"
+        },
+        "help": {
+            "label": "帮助",
+            "about": "关于"
+        }
+    },
+    "ui": {
+        "editor":"格子地图编辑器",
+        "map_info": "地图信息：",
+        "tiles": "格子行列数",
+        "tilesize": "格子大小",
+        "rows": "行数：",
+        "cols": "列数：",
+        "grid_width": "格子宽度：",
+        "grid_height": "格子高度：",
+        "mouse_position": "鼠标：",
+        "offset": "偏移：",
+        "zoom":"缩放:",
+        "add_layer": "添加图层",
+        "remove_layer": "删除图层",
+        "move_up": "上移",
+        "move_down": "下移",
+        "layer_visibility": "显示",
+        "layer_name": "图层名称",
+        "new_map_dialog": {
+            "title": "创建新地图",
+            "grid_width": "格子宽度：",
+            "grid_height": "格子高度：",
+            "rows": "行数：",
+            "cols": "列数：",
+            "bg_music": "背景音乐：",
+            "browse": "浏览",
+            "ok": "确定",
+            "cancel": "取消"
+        },
+        "about": {
+            "title": "关于",
+            "content": "游戏地图编辑器\n版本 1.0\n基于InsCode AI IDE开发！"
+        },
+        "save_success": "保存成功",
+        "save_message": "地图已成功保存。",
+        "mapfile":"地图文件",
+        "musicfile":"音频文件"
+    }
+}

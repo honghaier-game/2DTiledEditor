@@ -1,0 +1,59 @@
+{
+    "menu": {
+        "file": {
+            "label": "File",
+            "new_map": "New Map",
+            "open_map": "Open Map",
+            "save_map": "Save Map",
+            "exit": "Exit"
+        },
+        "edit": {
+            "label": "Edit",
+            "undo": "Undo",
+            "redo": "Redo",
+            "toggle_grid": "Toggle Grid"
+        },
+        "help": {
+            "label": "Help",
+            "about": "About"
+        }
+    },
+    "ui": {
+        "editor":"tiled map editor",
+        "map_info": "Map Info:",
+        "tiles": "Tiles",
+        "tilesize": "TileSize",
+        "rows": "Rows:",
+        "cols": "Columns:",
+        "grid_width": "Grid Width:",
+        "grid_height": "Grid Height:",
+        "mouse_position": "Mouse:",
+        "offset": "Offset:",
+        "zoom":"Zoom:",
+        "add_layer": "Add Layer",
+        "remove_layer": "Remove Layer",
+        "move_up": "Move Up",
+        "move_down": "Move Down",
+        "layer_visibility": "Visibility",
+        "layer_name": "Layer Name",
+        "new_map_dialog": {
+            "title": "Create New Map",
+            "grid_width": "Grid Width:",
+            "grid_height": "Grid Height:",
+            "rows": "Rows:",
+            "cols": "Columns:",
+            "bg_music": "Music:",
+            "browse": "Browse",
+            "ok": "OK",
+            "cancel": "Cancel"
+        },
+        "about": {
+            "title": "About",
+            "content": "Game Map Editor\nVersion 1.0\nDeveloped with InsCode AI IDE!"
+        },
+        "save_success": "Save Successful",
+        "save_message": "Map saved successfully.",
+        "mapfile":"mapfile",
+        "musicfile":"musicfile"
+    }
+}
